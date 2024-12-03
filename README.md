@@ -1,4 +1,4 @@
-# Nikola Acin - Data Professional Portfolio
+# Nikola Acin - Data Professional
 
 Welcome to my GitHub portfolio! I am an aspiring data professional with a strong foundation in Python, SQL, data visualization, and machine learning, combined with real-world experience in data analysis, research, and leadership.
 
@@ -49,17 +49,17 @@ Bachelor of Science in Kinesiology (May 2022)
 
 ## 📊 Projects
 
-### [Forecasting Single-Family Home Prices] (https://github.com/nacin023/connecticut-housing-analysis)
+### [Forecasting Single-Family Home Prices](https://github.com/nacin023/connecticut-housing-analysis)
 - Analyzed 15 years of Connecticut real estate data (100K+ transactions) using Python and Random Forest Regressor.
 - Built a predictive model with 99% accuracy to assist real estate professionals and policymakers.
 - Key insight: Identified a 35% decline in sales ratios over 15 years, advising municipalities to reassess property valuation strategies.
 
-### [Optimizing Anti-Doping Strategies] (https://github.com/nacin023/usada-doping-analysis?tab=readme-ov-file)
+### [Optimizing Anti-Doping Strategies](https://github.com/nacin023/usada-doping-analysis?tab=readme-ov-file)
 - Examined 500+ USADA doping sanctions using Python and Tableau.
 - Highlighted key trends: 48% reduction in sanctions over 5 years and the prevalence of Anabolic Steroids.
 - Recommended targeted athlete education to reduce violations.
 
-### [Enhancing YouTube Engagement] (https://github.com/nacin023/youtube_engagement_analysis)
+### [Enhancing YouTube Engagement](https://github.com/nacin023/youtube_engagement_analysis)
 - Analyzed engagement metrics for 1,600+ videos on Marques Brownlee's YouTube channel using Python.
 - Revealed top-performing content categories (Apple-related videos) and optimal posting times (Friday mornings).
 - Delivered insights that contributed to a 225% increase in views over 10 years.
