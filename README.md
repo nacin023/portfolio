@@ -39,14 +39,6 @@ Bachelor of Science in Kinesiology (May 2022)
 
 ---
 
-## 🏆 Athletic Achievements
-- Two-time Olympian for Serbia (Tokyo 2020, Paris 2024).
-- 2024 European Champion in Swimming.
-- Set multiple records at Purdue and the University of Michigan.
-- Served as team captain, leading Purdue’s swim team to its best-ever national finish.
-
----
-
 ## 📊 Projects
 
 ### [Forecasting Single-Family Home Prices](https://github.com/nacin023/connecticut-housing-analysis)
@@ -64,6 +56,14 @@ Bachelor of Science in Kinesiology (May 2022)
 - Revealed top-performing content categories (Apple-related videos) and optimal posting times (Friday mornings).
 - Delivered insights that contributed to a 225% increase in views over 10 years.
 
+---
+
+- ## 🏆 Athletic Achievements
+- Two-time Olympian for Serbia (Tokyo 2020, Paris 2024).
+- 2024 European Champion in Swimming.
+- Set multiple records at Purdue and the University of Michigan.
+- Served as team captain, leading Purdue’s swim team to its best-ever national finish.
+  
 ---
 
 ## 📈 Explore My Portfolio
