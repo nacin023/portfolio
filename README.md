@@ -74,8 +74,5 @@ Bachelor of Science in Kinesiology (May 2022)
 ---
 
 ## 🌟 Let's Connect!
-I am always eager to collaborate on data projects, 
-
-
 🌐 LinkedIn: [linkedin.com/in/nikola-acin](https://www.linkedin.com/in/nikola-acin)  
 
