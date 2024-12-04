@@ -1,4 +1,4 @@
-# Nikola Acin - Data Professional
+# Data Professional
 
 Welcome to my GitHub portfolio! I am an aspiring data professional with a strong foundation in Python, SQL, data visualization, and machine learning, combined with real-world experience in data analysis, research, and leadership.
 
