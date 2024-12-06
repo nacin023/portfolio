@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio! I am an aspiring data professional with a strong
 ## About Me
 I am a Master's student in Applied Data Science at the University of Michigan, graduating in December 2024. As a two-time Olympian, European Champion, and former NCAA Division I team captain.
 
-🌟 **Key Skills:**
+**Key Skills:**
 - Python (Pandas, NumPy, Scikit-learn)
 - SQL
 - Data Visualization (Power BI, Tableau, Matplotlib, Seaborn)
