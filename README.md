@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! I am an aspiring data professional with a strong
 
 ---
 
-## 🚀 About Me
+## About Me
 I am a Master's student in Applied Data Science at the University of Michigan, graduating in December 2024. As a two-time Olympian, European Champion, and former NCAA Division I team captain.
 
 🌟 **Key Skills:**
@@ -66,13 +66,13 @@ Bachelor of Science in Kinesiology (May 2022)
   
 ---
 
-## 📈 Explore My Portfolio
+##  Explore My Portfolio
 - **[GitHub Repositories](https://www.github.com/nacin023):** Browse my code and analytics projects.
 - **[Power BI Dashboards](https://github.com/nacin023/bike_share):** Explore interactive dashboards showcasing insights from my projects.
 - **[Tableau Public](https://public.tableau.com/app/profile/nikola.acin/viz/USADADopingDataAnalysis/USADADashboard):** View data visualizations and analyses.
 
 ---
 
-## 🌟 Let's Connect!
+##  Let's Connect!
 🌐 LinkedIn: [linkedin.com/in/nikola-acin](https://www.linkedin.com/in/nikola-acin)  
 
